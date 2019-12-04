@@ -1,5 +1,5 @@
-// const baseUrl = 'https://backend-09-server.herokuapp.com';
-const baseUrl = 'http://localhost:9999';
+const baseUrl = 'https://backend-09-server.herokuapp.com';
+// const baseUrl = 'http://localhost:9999';
 
 let firstSeenId = 0;
 let lastSeenId = 0;
