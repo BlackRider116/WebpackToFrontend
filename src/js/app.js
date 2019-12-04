@@ -283,8 +283,8 @@ setInterval(() => {
                 newPostsBtn.style.display = "block";
             }
         }
-        console.log(data)
-        console.log('firstSeenId = ' + firstSeenId)
+        // console.log(data)
+        // console.log('firstSeenId = ' + firstSeenId)
     }).catch(error => {
         console.log(error);
     });
